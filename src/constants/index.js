@@ -161,6 +161,36 @@ import {
   
   const projects = [
     {
+      name: "Şikayetvar User Page",
+      description:
+        "Web-based platform that allows users to login dashboard. Site includes home, course, students, payment, report, settings pages. On students page, users viewed on a table that can be sorted, filtered, searchable, editable and add new users.",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "violet-text-gradient",
+        },
+        {
+          name: "STYLED COMPONENTS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "NEXT-JS",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "MATERIAL REACT TABLE",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRnb3d6d3doY3J0ejRsbm9nbmZzMTB6dGhlanR2b25qcWYzZWFseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKC5cqUBjagZxYfpDt/giphy.gif',
+      source_code_link: "https://github.com/omersarisoy/sikayetvar-user-page",
+      project_link: "https://sikayetvar-user-page.netlify.app/home",
+    },
+    {
       name: "Sel Transportation",
       description:
         "Web-based platform that allows users to carry their loads from everywhere whereever they want. Site includes main, institutional, services, contact pages.  Company provides a convenient and efficient solution for transportation needs.",
