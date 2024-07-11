@@ -24,6 +24,8 @@ import bitbucket from "./tech/bitbucket.png";
 import sass from "./tech/sass.png";
 
 import asnak from "./company/asnak.png";
+import bluenet from "./company/bluenet.png";
+import kartega from "./company/kartega.png";
 
 import asnakv1 from "./asnakv1.gif";
 import asnakv2 from "./asnakv2.gif";
@@ -54,5 +56,7 @@ export {
   mui,
   asnakv1,
   asnakv2,
-  asnak
+  asnak,
+  bluenet,
+  kartega
 };

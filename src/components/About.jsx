@@ -47,8 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Strong understanding of web technologies including HTML5, CSS3, and JavaScript. <br />
-        2+ years of professional experience in Front-end Development. <br />
+        Strong understanding of web technologies including HTML5, CSS3, JavaScript and React. <br />
+        3+ years of professional experience in Front-end Development. <br />
         Experience in responsive design, cross-browser compatibility, and SEO optimization. <br />
         Strong problem-solving skills and ability to work well in a team. <br />
         A passion for staying up to date with the latest industry trends and technologies. <br />
